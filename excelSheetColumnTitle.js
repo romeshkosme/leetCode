@@ -15,6 +15,7 @@
       response += String.fromCharCode(64 + column);
     }
   }
+  console.log(response.split("").reverse().join(""))
   return response.split("").reverse().join("");
-})(702);
+})(23123);
 //
