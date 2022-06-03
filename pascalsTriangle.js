@@ -11,5 +11,6 @@
         }
         response.push(row)
     }
+    console.log(response)
     return response;
 })(6)
